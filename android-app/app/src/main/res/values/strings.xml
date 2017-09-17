@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dr. Jon\'s Skin Cancer Screening</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">Screening Results</string>
+    <string name="channel_name">Screen Results Channel</string>
+    <string name="text_no_results">You have no screening results yet\n\nClick + to start a screening</string>
+    <string name="upload_endpoint">REDACTED</string>
+    <string name="file_authority">com.cygery.drjonsskincancerscreening</string>
+</resources>
